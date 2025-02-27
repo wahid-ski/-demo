@@ -1,4 +1,4 @@
 # -demo
 This is my first Git Repo
 <br>
-Author Albari Yasir Wahid
+Author Wahid (Albari Yasir)
